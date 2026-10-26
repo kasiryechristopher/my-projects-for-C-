@@ -1,0 +1,12 @@
+# NDEJJE FARMERS SACCO - system settings (key=value)
+annual_interest_rate=18.00
+loan_multiplier=3.00
+minimum_share_capital=100000
+minimum_savings=50000
+minimum_loan_amount=100000
+maximum_loan_amount=20000000
+maximum_duration_months=24
+minimum_membership_months=3
+next_member_number=5
+next_loan_number=2
+next_transaction_number=11

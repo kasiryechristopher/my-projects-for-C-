@@ -1,0 +1,3 @@
+# Username|PasswordHash|Role|FullName|Phone|Active
+admin|5f64554d432a38bb|ADMIN|System Administrator|0700000001|1
+officer|cae683411d2a2ddb|OFFICER|Default Loan Officer|0700000002|1

@@ -1,0 +1,19 @@
+2026-10-13 20:30:57 | admin        | Logged in
+2026-10-13 20:37:46 | admin        | Registered member NFS0001 (Twaaha Kato)
+2026-10-13 20:39:42 | self-service | Member NFS0001 opened self-service
+2026-10-13 20:54:53 | admin        | Logged in
+2026-10-13 20:59:05 | admin        | Deleted member NFS0001 (Twaaha Kato), refunded UGX 140,000
+2026-10-13 21:02:40 | admin        | Registered member NFS0002 (Ssali Moses)
+2026-10-13 21:07:38 | admin        | Registered member NFS0003 (Tinka Moses)
+2026-10-13 21:12:05 | admin        | Loan application refused for NFS0002 (UGX 400,000)
+2026-10-13 21:16:19 | admin        | Logged out
+2026-10-13 21:17:14 | self-service | Member NFS0002 opened self-service
+2026-10-13 22:40:03 | admin        | Logged in
+2026-10-13 22:41:39 | admin        | Registered member NFS0004 (Nakato Sarah)
+2026-10-13 22:43:19 | admin        | Loan application LN0001 for NFS0004 (UGX 500,000)
+2026-10-13 22:45:11 | admin        | Approved loan LN0001
+2026-10-13 22:49:54 | admin        | Deleted member NFS0003 (Tinka Moses), refunded UGX 300,000
+2026-10-13 23:21:21 | admin        | Logged in
+2026-10-13 23:22:06 | admin        | Logged in
+2026-10-13 23:24:25 | self-service | Failed self-service check for NFS0002
+2026-10-13 23:24:38 | admin        | Logged in

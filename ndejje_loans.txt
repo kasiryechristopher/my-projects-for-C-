@@ -1,0 +1,2 @@
+# LoanID|MemberID|Principal|InterestRate|Months|Purpose|Status|AppliedOn|DecisionDate|DisbursedOn|AmountPaid|AppliedBy|DecidedBy|Remarks
+LN0001|NFS0004|500000.00|18.00|6|Crop farming inputs - Buy maize seed|APPROVED|2026-10-13|2026-10-13||0.00|admin|admin|Approved

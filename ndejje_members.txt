@@ -1,0 +1,3 @@
+# MemberID|FullName|NIN|Phone|Address|DateJoined|ShareCapital|SavingsBalance
+NFS0002|Ssali Moses|CM93012345JKLM|0772987654|Ndejje Central Ward|2026-10-13|100000.00|100000.00
+NFS0004|Nakato Sarah|CF90012345ABCD|0701112233|Ndejje North Ward|2025-01-15|200000.00|300000.00
